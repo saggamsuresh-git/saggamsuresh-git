@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Suresh Saggam</h1>
+<div style="background-color:white">
+  <h1 align="center">Hi 👋, I'm Suresh Saggam</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saggamsuresh-git&label=Profile%20views&color=0e75b6&style=flat" alt="saggamsuresh-git" /> </p>
@@ -53,3 +54,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saggamsuresh-git&show_icons=true&locale=en" alt="saggamsuresh-git" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saggamsuresh-git&" alt="saggamsuresh-git" /></p>
+
+</div>
